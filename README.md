@@ -36,7 +36,6 @@ A full-stack real-time chat application built with the **MERN Stack** (MongoDB, 
 - **MongoDB** with **Mongoose**
 - **Socket.IO** for real-time communication
 - **JWT** for authentication
-- **Multer** for file handling
 - **Cloudinary** for image uploads
 - **Bcrypt** for password security
 - **dotenv**, **Cors**, etc.
@@ -91,7 +90,7 @@ A full-stack real-time chat application built with the **MERN Stack** (MongoDB, 
    cd backend
    npm run dev
    ```
-   The backend server should now be running on `http://localhost:4000`.
+   The backend server should now be running on `http://localhost:5000`.
 
 2. **Start the Frontend**
    ```bash
